@@ -1,0 +1,52 @@
+* {
+  /*Primary colors*/
+  --dark-cyan: hsl(158, 36%, 37%);
+  --Cream: hsl(30, 38%, 92%);
+
+  /* Neutral colors */
+  --dark-blue: hsl(212, 21%, 14%);
+  --grayish-blue: hsl(228, 12%, 48%);
+  --White: hsl(0, 0%, 100%);
+
+  /* Font sizes */
+  --main-font-family: "Montserrat", sans-serif;
+  --secodnd-font-family: "Fraunces", serif;
+}
+
+body {
+  font-family: "Barlow Semi Condensed", sans-serif;
+  font-weight: 600;
+  color: var(--dark-blue);
+  font-size: 14px;
+  background: var(--Cream);
+}
+
+img {
+  max-width: 50%;
+  display: block;
+  border-radius: 10px;
+}
+.container {
+  display: flex;
+  flex-direction: grid;
+  align-items: center;
+  justify-content: center;
+}
+.card {
+  background-color: var(--White);
+  border-radius: 10px;
+  width: 600px;
+  flex-direction: grid;
+}
+
+.right-side {
+  float: right;
+  margin: 20px;
+  width: 50%;
+}
+
+.left-side {
+  float: left;
+  margin: 20px;
+  width: 50%;
+}
