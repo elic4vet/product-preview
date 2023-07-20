@@ -129,6 +129,25 @@ h1 {
   margin-bottom: 20px;
 }
 
+.attribution,
+.attribution-me,
+.credits,
+.me {
+  font-size: 11px;
+  text-align: center;
+  margin-top: 20px;
+}
+
+.attribution-me a,
+.attribution a {
+  text-decoration: none;
+  color: var(--dark-blue);
+}
+
+.me,
+.credits {
+  color: var(--dark-cyan);
+}
 /* Images */
 .mobile-image {
   display: none;
