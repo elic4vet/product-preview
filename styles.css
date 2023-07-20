@@ -151,6 +151,10 @@ h1 {
 .credits {
   color: var(--dark-cyan);
 }
+
+.attribution-me {
+  margin-top: 5px;
+}
 /* Images */
 .mobile-image {
   display: none;
