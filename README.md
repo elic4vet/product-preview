@@ -10,7 +10,6 @@ This is a solution to the [Product preview card component challenge on Frontend 
   - [Links](#links)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
@@ -50,7 +49,7 @@ A screenshot from the mobile version of the project.
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+The main challenge and the main focus of the app was the resposiveness of the app. I used media queries to make the app responsive. I also used flexbox and grid to make the app responsive. I also used the mobile first approach to make the app responsive. Lastly, i fixed a bug that was causing the app to be unresponsive for the tablet / ipad sizes. I fixed the bug by using the order property in css.
 
 To see how you can add code snippets, see below:
 
@@ -86,10 +85,6 @@ To see how you can add code snippets, see below:
   }
 }
 ```
-
-### Continued development
-
-The main challenge and the main focus of the app was the resposiveness of the app. I used media queries to make the app responsive. I also used flexbox and grid to make the app responsive. I also used the mobile first approach to make the app responsive. Lastly, i fixed a bug that was causing the app to be unresponsive for the tablet / ipad sizes. I fixed the bug by using the order property in css.
 
 ### Useful resources
 
