@@ -28,10 +28,10 @@ Users should be able to:
 ### Screenshot
 
 A screenshot from the desktop version of the project.
-![](./images/product-preview-screenshot.png)
+![](./images/product-preview-screenshot-mobile.png)
 
 A screenshot from the mobile version of the project.
-![](./images/product-preview-screenshot-mobile.png)
+![](./images/)
 
 ### Links
 
