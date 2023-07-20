@@ -98,6 +98,7 @@ h1 {
   font-size: 0.9rem;
   opacity: 0.8;
   gap: 1rem;
+  overflow-wrap: break-word;
 }
 .price {
   color: var(--dark-cyan);
