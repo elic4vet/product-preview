@@ -49,7 +49,7 @@ A screenshot from the mobile version of the project.
 
 ### What I learned
 
-The main challenge and the main focus of the app was the resposiveness of the app. I used media queries to make the app responsive. I also used flexbox and grid to make the app responsive. I also used the mobile first approach to make the app responsive. Lastly, i fixed a bug that was causing the app to be unresponsive for the tablet / ipad sizes. I fixed the bug by using the order property in css.
+The main focus of the app was the responsiveness of the app. I used media queries, flexbox and grid to make the app responsive. I also used the mobile-first approach to make the app adapt well to smaller screen sizes Lastly, i fixed a issue with the screen size of the tablet / ipads. I fixed this issue by using the order property in css.
 
 To see how you can add code snippets, see below:
 
